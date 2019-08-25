@@ -1,0 +1,394 @@
+# depslib dependency file v1.0
+1515702496 source:c:\users\ahmed aziz\documents\c++\correcteur\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<deque>
+	<map>
+	<sstream>
+	"AlgorithmePrediction.h"
+	"mesureDeSimilarite.h"
+	"dictionnaire.h"
+	"fonctions.h"
+	"dicoVector.h"
+	"editDistanceLevenshtein.h"
+	"dicoSet.h"
+
+1515324526 source:c:\users\ahmed aziz\documents\c++\correcteur\mesuredesimilarite.cpp
+	"mesureDeSimilarite.h"
+
+1515325193 c:\users\ahmed aziz\documents\c++\correcteur\mesuredesimilarite.h
+	<string>
+	<vector>
+
+1515334965 source:c:\users\ahmed aziz\documents\c++\correcteur\dictionnaire.cpp
+	"dictionnaire.h"
+	"mesureDeSimilarite.h"
+
+1515597262 c:\users\ahmed aziz\documents\c++\correcteur\dictionnaire.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<algorithm>
+	"mesureDeSimilarite.h"
+	"fonctions.h"
+	"motCandidat.h"
+
+1515277256 source:c:\users\ahmed aziz\documents\c++\correcteur\fonctions.cpp
+	"fonctions.h"
+
+1515275570 c:\users\ahmed aziz\documents\c++\correcteur\fonctions.h
+	"dictionnaire.h"
+	"mesureDeSimilarite.h"
+
+1515597408 source:c:\users\ahmed aziz\documents\c++\correcteur\dicovector.cpp
+	"dicoVector.h"
+	"mesureDeSimilarite.h"
+
+1515346459 c:\users\ahmed aziz\documents\c++\correcteur\dicovector.h
+	"dictionnaire.h"
+
+1515324521 source:c:\users\ahmed aziz\documents\c++\correcteur\editdistancelevenshtein.cpp
+	"editDistanceLevenshtein.h"
+
+1515324482 c:\users\ahmed aziz\documents\c++\correcteur\editdistancelevenshtein.h
+	"mesureDeSimilarite.h"
+
+1515325159 source:c:\users\ahmed aziz\documents\c++\correcteur\cosinus.cpp
+
+1515325143 source:c:\users\ahmed aziz\documents\c++\correcteur\jaccardi.cpp
+
+1515346502 source:c:\users\ahmed aziz\documents\c++\correcteur\dicoset.cpp
+	"dicoSet.h"
+	"mesureDeSimilarite.h"
+
+1515346469 c:\users\ahmed aziz\documents\c++\correcteur\dicoset.h
+	"dictionnaire.h"
+	<set>
+
+1515346798 source:c:\users\ahmed aziz\documents\c++\correcteur\algorithmeprediction.cpp
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<algorithm>
+	<iostream>
+	"AlgorithmePrediction.h"
+
+1515346742 c:\users\ahmed aziz\documents\c++\correcteur\algorithmeprediction.h
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<list>
+	<algorithm>
+
+1515346799 source:c:\users\ahmed aziz\documents\c++\correcteur\apprentissageauto.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515346801 source:c:\users\ahmed aziz\documents\c++\correcteur\motscorreles.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515346802 source:c:\users\ahmed aziz\documents\c++\correcteur\outils.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515597164 c:\users\ahmed aziz\documents\c++\correcteur\motcandidat.h
+	<iostream>
+	<string>
+
+1515597171 source:c:\users\ahmed aziz\documents\c++\correcteur\motcandidat.cpp
+	"motCandidat.h"
+
+1515350398 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\algorithmeprediction.cpp
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<algorithm>
+	<iostream>
+	"AlgorithmePrediction.h"
+
+1515350342 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\algorithmeprediction.h
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<list>
+	<algorithm>
+
+1515350399 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\apprentissageauto.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515328759 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\cosinus.cpp
+
+1515350102 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicoset.cpp
+	"dicoSet.h"
+	"mesureDeSimilarite.h"
+
+1515350069 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicoset.h
+	"dictionnaire.h"
+	<set>
+
+1515600862 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dictionnaire.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<algorithm>
+	"mesureDeSimilarite.h"
+	"fonctions.h"
+	"motCandidat.h"
+
+1515328793 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\mesuredesimilarite.h
+	<string>
+	<vector>
+
+1515279170 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\fonctions.h
+	"dictionnaire.h"
+	"mesureDeSimilarite.h"
+
+1515600764 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\motcandidat.h
+	<iostream>
+	<string>
+
+1515601008 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicovector.cpp
+	"dicoVector.h"
+	"mesureDeSimilarite.h"
+
+1515350059 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicovector.h
+	"dictionnaire.h"
+
+1515334965 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dictionnaire.cpp
+	"dictionnaire.h"
+	"mesureDeSimilarite.h"
+
+1515328121 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\editdistancelevenshtein.cpp
+	"editDistanceLevenshtein.h"
+
+1515328082 c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\editdistancelevenshtein.h
+	"mesureDeSimilarite.h"
+
+1515280856 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\fonctions.cpp
+	"fonctions.h"
+
+1515328743 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\jaccardi.cpp
+
+1515715740 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<deque>
+	<map>
+	<sstream>
+	"AlgorithmePrediction.h"
+	"mesureDeSimilarite.h"
+	"dictionnaire.h"
+	"fonctions.h"
+	"dicoVector.h"
+	"editDistanceLevenshtein.h"
+	"dicoSet.h"
+
+1515328126 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\mesuredesimilarite.cpp
+	"mesureDeSimilarite.h"
+
+1515600771 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\motcandidat.cpp
+	"motCandidat.h"
+
+1515350401 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\motscorreles.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515350402 source:c:\users\ahmed aziz\documents\enit-ensta 2ata\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\outils.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515350398 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\algorithmeprediction.cpp
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<algorithm>
+	<iostream>
+	"AlgorithmePrediction.h"
+
+1515350342 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\algorithmeprediction.h
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<list>
+	<algorithm>
+
+1515350399 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\apprentissageauto.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515328759 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\cosinus.cpp
+
+1515350102 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicoset.cpp
+	"dicoSet.h"
+	"mesureDeSimilarite.h"
+
+1515350069 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicoset.h
+	"dictionnaire.h"
+	<set>
+
+1515600862 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dictionnaire.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<algorithm>
+	"mesureDeSimilarite.h"
+	"fonctions.h"
+	"motCandidat.h"
+
+1515328793 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\mesuredesimilarite.h
+	<string>
+	<vector>
+
+1515279170 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\fonctions.h
+	"dictionnaire.h"
+	"mesureDeSimilarite.h"
+
+1515600764 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\motcandidat.h
+	<iostream>
+	<string>
+
+1515601008 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicovector.cpp
+	"dicoVector.h"
+	"mesureDeSimilarite.h"
+
+1515350059 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dicovector.h
+	"dictionnaire.h"
+
+1528376052 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\dictionnaire.cpp
+	"dictionnaire.h"
+	"mesureDeSimilarite.h"
+
+1515328121 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\editdistancelevenshtein.cpp
+	"editDistanceLevenshtein.h"
+
+1515328082 c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\editdistancelevenshtein.h
+	"mesureDeSimilarite.h"
+
+1515280856 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\fonctions.cpp
+	"fonctions.h"
+
+1515328743 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\jaccardi.cpp
+
+1515715740 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<deque>
+	<map>
+	<sstream>
+	"AlgorithmePrediction.h"
+	"mesureDeSimilarite.h"
+	"dictionnaire.h"
+	"fonctions.h"
+	"dicoVector.h"
+	"editDistanceLevenshtein.h"
+	"dicoSet.h"
+
+1515328126 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\mesuredesimilarite.cpp
+	"mesureDeSimilarite.h"
+
+1515600771 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\motcandidat.cpp
+	"motCandidat.h"
+
+1515350401 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\motscorreles.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
+1515350402 source:c:\users\yahme.desktop-fi35g6c\desktop\github\editeur de texte ahmed aziz yedes amal hasni\editeur de texte c++\outils.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<deque>
+	<vector>
+	<list>
+	<algorithm>
+	<istream>
+	<sstream>
+	"AlgorithmePrediction.h"
+
